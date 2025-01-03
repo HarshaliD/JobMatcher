@@ -1,0 +1,8 @@
+Flask
+pandas
+scikit-learn
+numpy
+fpdf
+transformers
+pickle
+-U "google-generativeai>=0.8.3"
